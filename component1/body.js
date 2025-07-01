@@ -24,7 +24,7 @@ function Body(){
     return (
    <div className="but">
     
-    <input type="text" className="input" placeholder="Search Here" value={numberofprofile} onChange={(e)=>setnumeberofprofile(e.target.value)}>
+    <input type="text" className="input" placeholder="Search number of profile" value={numberofprofile} onChange={(e)=>setnumeberofprofile(e.target.value)}>
     </input>
     <button onClick={()=>generateprofile(Number(numberofprofile))}>Search Profile</button>
    <div className="profile">
