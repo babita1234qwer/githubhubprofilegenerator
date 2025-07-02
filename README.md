@@ -1,7 +1,6 @@
 
-# 🧰 GitHub Profile Generator
-
-A React-based web app that helps users generate multiple **custom GitHub profile README.md files** with live preview, bulk profile support, and download functionality.
+# 🧰 GitHub Profile generator
+A React-based web app that helps users generate multiple numbers of profile by typing how many profile you want
 
 > 🚀 Designed to simplify README creation for developers, open source contributors, and student portfolios.
 
